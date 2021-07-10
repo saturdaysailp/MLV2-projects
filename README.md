@@ -2,9 +2,9 @@
 <b></b>
 <b>Mentores:</b>
 
-- Fernando Silva [Twitter](https://twitter.com/fernando232s) / [LinkedIn](https://www.linkedin.com/in/fernando-silva-48587613b/)
-- Juan Pablo Morales [Twitter](https://twitter.com/JuanpaMF) / [LinkedIn](https://www.linkedin.com/in/juan-pablo-morales-fernandez-42317b1b)
-- Sandro Moreira [Twitter](https://twitter.com/sandro_moreira) / [LinkedIn](https://www.linkedin.com/in/sandro-moreira) 
+- Fernando Silva 🇧🇴 [Twitter](https://twitter.com/fernando232s) / [LinkedIn](https://www.linkedin.com/in/fernando-silva-48587613b/)
+- Juan Pablo Morales 🇨🇱 [Twitter](https://twitter.com/JuanpaMF) / [LinkedIn](https://www.linkedin.com/in/juan-pablo-morales-fernandez-42317b1b)
+- Sandro Moreira 🇧🇷 [Twitter](https://twitter.com/sandro_moreira) / [LinkedIn](https://www.linkedin.com/in/sandro-moreira) 
 
 ## Equipo 1: Pet adoption prediction
 [Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%201) / [Blog](https://medium.com/saturdays-ai/adopci%C3%B3n-de-mascotas-utilizando-ia-para-determinar-la-adopci%C3%B3n-55860f7de068)
