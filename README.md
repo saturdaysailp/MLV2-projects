@@ -1,6 +1,8 @@
 # Proyectos Machine Learning 2nd Edition
-<b></b>
-<b>Mentores:</b>
+<b>21/11/21 - 06/02/21</b>
+<br>
+
+## Mentores
 
 - Fernando Silva 🇧🇴 [Twitter](https://twitter.com/fernando232s) / [LinkedIn](https://www.linkedin.com/in/fernando-silva-48587613b/)
 - Juan Pablo Morales 🇨🇱 [Twitter](https://twitter.com/JuanpaMF) / [LinkedIn](https://www.linkedin.com/in/juan-pablo-morales-fernandez-42317b1b)
